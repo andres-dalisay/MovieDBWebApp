@@ -1,0 +1,19 @@
+{
+  "name": "moviedbwebapp",
+  "version": "1.0.0",
+  "description": "A simple web app with CRUD operations for viewing the imdb_ijs dataset. This project is in partial fulfillment for the Advanced Database Systems class in De La Salle University.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andres-dalisay/MovieDBWebApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andres-dalisay/MovieDBWebApp/issues"
+  },
+  "homepage": "https://github.com/andres-dalisay/MovieDBWebApp#readme"
+}
